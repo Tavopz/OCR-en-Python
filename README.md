@@ -12,4 +12,6 @@ Para la ejecucion de este programa es necesario seguir los siguientes pasos:
 
 Para mayor información consultar el reporte.
 
+Las imagenes del 0 al 9 son las que se utilizan para la corrida del programa.
+
 Proyecto eleborado por alumnos de la Universidad Politécnica de Tlaxcala.
