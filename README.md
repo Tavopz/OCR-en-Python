@@ -10,4 +10,6 @@ Para la ejecucion de este programa es necesario seguir los siguientes pasos:
 
 4.- ejecutar el programa.
 
+Para mayor información consultar el reporte.
+
 Proyecto eleborado por alumnos de la Universidad Politécnica de Tlaxcala.
